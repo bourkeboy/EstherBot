@@ -8,8 +8,8 @@
 }**/
 
 {
-    "BOT": "Hi, this is meant to be the default message."
-    "HELLO": "Hi, I'm the personal bot of Keane Bourke. How can I help?"
+    "BOT": "Hi, this is meant to be the default message.",
+    "HELLO": "Hi, I'm the personal bot of Keane Bourke. How can I help?",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
