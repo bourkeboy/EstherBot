@@ -2,6 +2,16 @@
     "BOT": "Hi, this is meant to be the default message.",
     "HELLO": "Hi, I'm Keane's bot. How can I help?",
     "HI": "Hi, I'm Keane's bot. How can I help?",
+    "WHO IS KEANE?": "Keane Bourke is a photographer based in Perth, Western Australia, specialising in event and sport photography.",
+    "WHAT DO YOU SHOOT?": "Mainly events and sports, as well as portraits.",
+    "WHAT DOES KEANE SHOOT?": "Mainly events and sports, as well as portraits.",
+    "WHAT SERVICES DO YOU OFFER?": "Any kind of photography you could possibly think of!",
+    "WHAT SERVICES DOES KEANE OFFER?": "Any kind of photography you could possibly think of!",
+    "WHO HAVE YOU SHOT FOR?": "Previous clients include the Perth Scorchers, Transperth, the NSW Swifts netball team, and the St Patrick's Community Support Centre.",
+    "WHO HAS KEANE SHOT FOR?": "Previous clients include the Perth Scorchers, Transperth, the NSW Swifts netball team, and the St Patrick's Community Support Centre.",
+    "CAN YOU SHOW ME SOME OF YOUR WORK?": "Sure! %[NSW Swifts](http://www.existencephotography.com/swifts)",
+    "CAN YOU SHOW ME SOME OF KEANE'S WORK?": "Sure! %[Perth Scorchers](http://www.existencephotography.com/p854363380)",
+    "EMAIL": "Sure thing! %[email](malito:keane@existencephotography.com"),
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
